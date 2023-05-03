@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dimensión N</title>
-    <link>https://dimensionn.mx/tags/</link>
+    <link>https://github.com/Jamagax/DimensionN/tags/</link>
     <description>Recent content in Tags on Dimensión N</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>info@dimensionn.mx (Jamagax)</managingEditor>
     <webMaster>info@dimensionn.mx (Jamagax)</webMaster>
-    <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dimensionn.mx/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/Jamagax/DimensionN/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>https://dimensionn.mx/tags/blog/</link>
+      <link>https://github.com/Jamagax/DimensionN/tags/blog/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       <author>info@dimensionn.mx (Jamagax)</author>
-      <guid>https://dimensionn.mx/tags/blog/</guid>
+      <guid>https://github.com/Jamagax/DimensionN/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diseño</title>
-      <link>https://dimensionn.mx/tags/dise%C3%B1o/</link>
+      <link>https://github.com/Jamagax/DimensionN/tags/dise%C3%B1o/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       <author>info@dimensionn.mx (Jamagax)</author>
-      <guid>https://dimensionn.mx/tags/dise%C3%B1o/</guid>
+      <guid>https://github.com/Jamagax/DimensionN/tags/dise%C3%B1o/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rhino</title>
-      <link>https://dimensionn.mx/tags/rhino/</link>
+      <link>https://github.com/Jamagax/DimensionN/tags/rhino/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       <author>info@dimensionn.mx (Jamagax)</author>
-      <guid>https://dimensionn.mx/tags/rhino/</guid>
+      <guid>https://github.com/Jamagax/DimensionN/tags/rhino/</guid>
       <description></description>
     </item>
     
